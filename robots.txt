@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bbrenge.github.io/wangjishijil/sitemap.xml
